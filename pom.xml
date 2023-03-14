@@ -13,6 +13,7 @@
         <module>test_log4j</module>
         <module>test_lo4j2_and_slf4j</module>
         <module>log4j_source_code</module>
+        <module>test_log4j_and_log4j2_and_slf4j</module>
     </modules>
 
     <properties>
